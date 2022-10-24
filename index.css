@@ -1,0 +1,29 @@
+.Experiencia{
+    display: flex; justify-content: space-around;
+}
+h1{
+    color: blue; text-align: center; padding: 5px;
+}
+.fotoperfil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#edad{
+    color: aqua;
+}
+
+body{
+    background-color: beige;
+}
+
+.flex-container{
+    display: flex;
+}
+.caja{
+    color: black;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
